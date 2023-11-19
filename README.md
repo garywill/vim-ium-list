@@ -1,6 +1,8 @@
 # Vim(ium)-like Softwares List
 List of Vim-like and Vimium-like softwares. NOT limited to text editor or browser.
 
+> **Moved to https://github.com/garywill/vimouse**
+
 ## Keyboard clicking:
 
 - [Vimperator](https://github.com/vimperator/vimperator-labs) (discontinued) Make Firefox/Thunderbird look and behave like Vim
